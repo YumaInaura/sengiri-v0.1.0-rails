@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'mysql2', '0.3.20'
+gem 'sengiri', '0.1.0'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.10'
